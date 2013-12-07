@@ -64,13 +64,6 @@
         day, hour, minute, and second.
     </string>
 
-    <!-- Customizable lens flare wallpaper -->
-    <string name="wallpaper_clock">SunBeam</string>
-    <string name="wallpaper_SunBeam_author">omnirom and pcarenza</string>
-    <string name="wallpaper_clock_desc">
-        Presents a customizable lens flare sequence.
-    </string>
-    
 	<!-- Wallpaper showing nexus -->
     <string name="wallpaper_nexus">Nexus</string>
     <string name="wallpaper_nexus_author">Google</string>

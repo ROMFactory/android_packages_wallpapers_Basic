@@ -55,18 +55,6 @@
                 <category android:name="android.intent.category.TEST" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:label="@string/wallpaper_sunbeam
-            android:name="com.android.wallpaper.sunbeam.SunBeam"
-            android:theme="@android:style/Theme.NoTitleBar"
-            android:enabled="@bool/config_enable_sunbeam_wallpaper">
-           <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.TEST" />
-            </intent-filter>
-        </activity>
-        
         <activity
             android:label="@string/wallpaper_fall"
             android:name="com.android.wallpaper.fall.Fall"
