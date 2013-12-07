@@ -23,5 +23,6 @@
     <bool name="config_enable_fall_wallpaper">true</bool>
     <bool name="config_enable_nexus_wallpaper">true</bool>
     <bool name="config_enable_polar_clock_wallpaper">false</bool>
+    <bool name="config_enable_sunbeam_wallpaper">true</bool>
 </resources>
 
